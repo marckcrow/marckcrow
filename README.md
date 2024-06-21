@@ -67,4 +67,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unifor**, com u
 ## 📫 Contato
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil-linkedin/)
-- Email: [marcondes@example.com](mailto:marcondesjr.ti@gmail.com)
+- Email: [marcondesjr.ti@gmail.com](mailto:marcondesjr.ti@gmail.com)
