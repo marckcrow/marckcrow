@@ -52,7 +52,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unifor**, com u
 
 ### 📊 Ciência de Dados
 
-- **[Análise de Dados COVID-19](https://github.com/marckcrow/analise-covid)**: Projeto de análise de dados COVID-19 utilizando Pandas e Matplotlib. [![Análise de Dados COVID-19](https://img.shields.io/github/stars/marckcrow/analise-covid?style=social)](https://github.com/marckcrow/analise-covid)
+- **[Análise de Dados COVID-19](https://github.com/marckcrow/Analise-de-Dados-COVID-19)**: Projeto de análise de dados COVID-19 utilizando Pandas e Matplotlib. [![Análise de Dados COVID-19](https://img.shields.io/github/stars/marckcrow/analise-covid?style=social)](https://github.com/marckcrow/Analise-de-Dados-COVID-19)
 - **[Predição de Preços de Casas](https://github.com/marckcrow/predicao-precos-casas)**: Utilização de Machine Learning para predição de preços de casas. [![Predição de Preços de Casas](https://img.shields.io/github/stars/marckcrow/predicao-precos-casas?style=social)](https://github.com/marckcrow/predicao-precos-casas)
 
 ### 🔒 Cibersegurança
