@@ -7,11 +7,12 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Unifor**, com um grande interesse em **Desenvolvimento Web**, **Ciência de Dados**, **Cibersegurança** e **Machine Learning**. Adoro explorar novas tecnologias e aplicar conceitos teóricos em projetos práticos.
 
-- 📚 Atualmente, estou aprimorando minhas habilidades em **React** e **Python**.
-- 🔍 Sempre à procura de novas oportunidades para aprender e crescer na área de tecnologia.
-- 🛠️ Trabalhando em projetos que combinam **Desenvolvimento Web** com **Ciência de Dados**.
-- 🎓 Buscando estágios e experiências profissionais para aplicar meus conhecimentos acadêmicos.
-- 🎮 Curiosidade: Sou um entusiasta de jogos de tabuleiro e adoro resolver quebra-cabeças!
+🏗️ Building SaaS products with AI | React · Supabase · TypeScript
+🎓 IT Management + Systems Analysis (Unifor)
+💼 Founder @ WebStreet — AI-powered digital products
+🔧 DETRAN-CE Technical Support | Government IT systems
+📍 Fortaleza, Brazil
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
