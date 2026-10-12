@@ -52,8 +52,8 @@
 | Repositório | Descrição | Info |
 | --- | --- | --- |
 | [detran-ce-connect](https://github.com/marckcrow/detran-ce-connect) |  | `TypeScript`  |
-| [jarvis-aura-54](https://github.com/marckcrow/jarvis-aura-54) |  | `TypeScript`  |
 | [marckcrow](https://github.com/marckcrow/marckcrow) | Sobre mim |   |
+| [jarvis-aura-54](https://github.com/marckcrow/jarvis-aura-54) |  | `TypeScript`  |
 | [ikigai-bussola](https://github.com/marckcrow/ikigai-bussola) | IKIGAI - Sua Bússola: Um jogo de autoconhecimento interativo inspirado no conceito japonês de ikigai. | `TypeScript`  |
 | [mediaflow](https://github.com/marckcrow/mediaflow) |  | `TypeScript`  |
 | [fatefor-discovery](https://github.com/marckcrow/fatefor-discovery) | FateFor Discovery - EAD SaaS White Label Platform | `TypeScript`  |
